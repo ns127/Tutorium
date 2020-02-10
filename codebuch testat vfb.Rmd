@@ -1,0 +1,14 @@
+---
+title: "vfb_codebuch"
+output: html_document
+---
+
+nodelist: 
+
+id: person=nachname; unternehmen=siehe nodelist (willkürlich)
+name: vollständiger name 
+type: 0=unternehmen; 1=person
+
+edgelist: 
+
+from...to: Beziehung von XX zu XX
